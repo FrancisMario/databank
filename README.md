@@ -1,5 +1,5 @@
 ## /root$ bash ./hacking/tools/databank/start.sh
-### `Welcome to Mario's Blog`
+### Welcome to Mario's Blog
   
       ,           ,
     /             \
@@ -21,7 +21,7 @@ Databank tip: You can follow me on the social media at the following
 + -- --=[ intergram [link](https://www.instagram.com/francismariogomez/)]
 + -- --=[ email me for business [link](https://twitter.com/mfgmariomario)]
 
-## `/databank > help`
+## /databank > help
 NEWS          Displays all the news I've got.
 BLOG         Shows you all those sweet sweet blog posts.
 PROJECTS         Detailed info about all public ongoing projects.
