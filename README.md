@@ -1,12 +1,32 @@
-## root$ bash ./hacking/tools/databank/start.sh
-   # Welcome to Mario's Blog
+## /root$ bash ./hacking/tools/databank/start.sh
+### `Welcome to Mario's Blog`
   
-## root$ help
-NEWS          Displays or modifies file extension associations.
-BLOG         Displays or changes file attributes.
-PROJECTS          Sets or clears extended CTRL+C checking.
-IDEAS        Sets properties in boot database to control boot loading.
-RANTS          Displays or modifies access control lists (ACLs) of files. 
+      ,           ,
+    /             \
+   ((__---,,,---__))
+      (_) O O (_)_____________
+         \ _ /                |\
+          o_o \    DATABANK   | \
+               \   ___________|  *
+                |||      WW|||
+                |||       |||
+
+       =[ databank v0.0.1-dev                          ]
++ -- --=[ 0 news - 0 blog posts - 0 projects       ]
++ -- --=[ 0 ideas - 0 rants  - --            ]
++ -- --=[ energy level 4/10                    ]
+
+Databank tip: You can follow me on the social media at the following
++ -- --=[ twitter [link](https://twitter.com/mfgmariomario/)]
++ -- --=[ intergram [link](https://www.instagram.com/francismariogomez/)]
++ -- --=[ email me for business [link](https://twitter.com/mfgmariomario)]
+
+## `/databank > help`
+NEWS          Displays all the news I've got.
+BLOG         Shows you all those sweet sweet blog posts.
+PROJECTS         Detailed info about all public ongoing projects.
+IDEAS          List of great and not so great ideas.
+RANTS          If you have some time to waste, take a moment to hear me rant about stuff. 
 
 [# editor on GitHub](https://github.com/FrancisMario/databank/edit/master/README.md)
 You can use the [#editor on GitHub](https://github.com/FrancisMario/databank/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
