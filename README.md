@@ -1,5 +1,13 @@
-## Welcome to Mario's Blog
-# Follow me on
+## root$ bash ./hacking/tools/databank/start.sh
+   # Welcome to Mario's Blog
+  
+## root$ help
+NEWS          Displays or modifies file extension associations.
+BLOG         Displays or changes file attributes.
+PROJECTS          Sets or clears extended CTRL+C checking.
+IDEAS        Sets properties in boot database to control boot loading.
+RANTS          Displays or modifies access control lists (ACLs) of files. 
+
 [# editor on GitHub](https://github.com/FrancisMario/databank/edit/master/README.md)
 You can use the [#editor on GitHub](https://github.com/FrancisMario/databank/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
