@@ -1,20 +1,20 @@
 ## /root$ bash ./hacking/tools/databank/start.sh
 ### Welcome to Mario's Blog
   
-      ,           ,
-    /             \
-   ((__---,,,---__))
-      (_) O O (_)_____________
-         \ _ /                |\
-          o_o \    DATABANK   | \
-               \   ___________|  *
-                |||      WW|||
-                |||       |||
+/      ,           ,
+/    /             \
+/   ((__---,,,---__))
+/      (_) O O (_)_____________/
+/         \ _ /                |\
+/          o_o \    DATABANK   | \
+/               \   ___________|  *
+/                |||      WW|||
+/                |||       |||
 
        =[ databank v0.0.1-dev                          ]
-+ -- --=[ 0 news - 0 blog posts - 0 projects       ]
-+ -- --=[ 0 ideas - 0 rants  - --            ]
-+ -- --=[ energy level 4/10                    ]
+/+ -- --=[ 0 news - 0 blog posts - 0 projects       ]
+\+ -- --=[ 0 ideas - 0 rants  - --            ]
+\+ -- --=[ energy level 4/10                    ]
 
 Databank tip: You can follow me on the social media at the following
 + -- --=[ twitter [link](https://twitter.com/mfgmariomario/)]
